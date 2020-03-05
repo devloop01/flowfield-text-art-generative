@@ -3,7 +3,7 @@ console.clear();
 const GUI = new dat.GUI();
 
 let settings = {
-	text: "developer",
+	text: "TEXT",
 	textSize: 150,
 	totalNumberOfParticles: 100,
 	scale: 30,
